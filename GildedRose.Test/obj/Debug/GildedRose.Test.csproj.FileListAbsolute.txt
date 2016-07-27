@@ -1,0 +1,9 @@
+C:\GildedRose\gilded-rose\GildedRose.Test\bin\Debug\GildedRose.Test.dll
+C:\GildedRose\gilded-rose\GildedRose.Test\bin\Debug\GildedRose.Test.pdb
+C:\GildedRose\gilded-rose\GildedRose.Test\bin\Debug\GildedRose.dll
+C:\GildedRose\gilded-rose\GildedRose.Test\bin\Debug\nunit.framework.dll
+C:\GildedRose\gilded-rose\GildedRose.Test\bin\Debug\GildedRose.pdb
+C:\GildedRose\gilded-rose\GildedRose.Test\bin\Debug\nunit.framework.xml
+C:\GildedRose\gilded-rose\GildedRose.Test\obj\Debug\GildedRose.Test.csprojResolveAssemblyReference.cache
+C:\GildedRose\gilded-rose\GildedRose.Test\obj\Debug\GildedRose.Test.dll
+C:\GildedRose\gilded-rose\GildedRose.Test\obj\Debug\GildedRose.Test.pdb
